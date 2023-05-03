@@ -1,0 +1,5 @@
+br\com\springproject\springproject\SpringProjectApplication.class
+br\com\springproject\springproject\Address.class
+br\com\springproject\springproject\Gender.class
+br\com\springproject\springproject\StudentRepository.class
+br\com\springproject\springproject\Student.class
